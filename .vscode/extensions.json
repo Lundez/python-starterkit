@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "charliermarsh.ruff",
+        "quarto.quarto",
+        "ms-python.python",
+        "codeium.codeium"
+    ]
+}
