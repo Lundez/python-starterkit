@@ -2,5 +2,6 @@
     "[python]": {
         "editor.formatOnType": true
     },
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true
 }
