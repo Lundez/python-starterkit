@@ -3,5 +3,12 @@
         "editor.formatOnType": true
     },
     "files.autoSave": "afterDelay",
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "python.linting.enabled": true,
+    "files.autoSave": "afterDelay",
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    }
 }
